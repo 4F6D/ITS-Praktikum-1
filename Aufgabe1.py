@@ -1,5 +1,5 @@
 # Author: René Reifen
-
+# Gruppe 27 SoSe 24
 
 # Für die Aufgabe wurde der Wikipedia-Artikel zur Buchstabenhäufigkeit der 
 # deutschen Sprache benutzt.
